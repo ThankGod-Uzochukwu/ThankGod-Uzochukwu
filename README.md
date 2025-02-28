@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/thankgod-uzochukwu/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Praise Ebuka" height="30" width="40" /></a>
 
-<a href="https://twitter.com/therealteegee" target="blank">
+<a href="https://twitter.com/teegeeofafrica" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThankGod" height="30" width="40" /></a> 
 </p>
 
