@@ -7,7 +7,6 @@
 # 💫 About Me:
 - 💡 My name is ThankGod
 - 🌱 A Software Developer but majors in Mobile Development
-- 💞️ Looking forward to collaborating with anyone globally
 - 📫 Reach me via Mail: thankgoduzochukwu.com@gmail.com
 - 📱 <a href="https://flowcv.com/resume/lnvi0stb21" target="_blank">My Mobile Dev CV</a>
 - 🌐 <a href="https://flowcv.com/resume/8mr5tqvdjkwd" target="_blank">My Web Dev CV</a>
