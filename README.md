@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!👋;I'm+a+Software+Developer;let's+solve+problems💻!&center=true&size=28&color=bae972">
