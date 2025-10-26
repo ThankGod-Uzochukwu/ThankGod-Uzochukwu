@@ -21,7 +21,6 @@
 
 <a href="https://twitter.com/teegeeofafrica" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ThankGod" height="30" width="40" /></a> 
-</p>
 
 <a href="https://instagram.com/thephenomenalteegee" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thephenomenalteegee" height="30" width="40" /></a> 
