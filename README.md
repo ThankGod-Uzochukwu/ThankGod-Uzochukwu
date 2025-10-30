@@ -8,7 +8,7 @@
 - 💡 My name is <a href="thankgod.vercel.app" target="_blank">ThankGod</a>
 - 🌱 A Software Developer, but majored in Mobile Development
 - 📫 Reach me via Mail: thankgoduzochukwu.com@gmail.com
-- 💻 <a href="https://flowcv.com/resume/9v3nvilvgga3" target="_blank">Software Developer CV</a>
+- 💻 <a href="https://flowcv.com/resume/jg2510hs5vdv" target="_blank">Software Developer CV</a>
 
 ## 🌐 Socials:
 
