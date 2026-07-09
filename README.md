@@ -1,14 +1,14 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!👋;I'm+a+Software+Developer;let's+solve+problems💻!&center=true&size=28&color=bae972">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!👋;I'm+a+Software+Developer;I+build+solutions💻!&center=true&size=28&color=bae972">
   </a>
 </h1>
 
 # 💫 About Me:
 - 💡 My name is <a href="thankgod.vercel.app" target="_blank">ThankGod</a>
-- 🌱 A Software Developer, who majored in Mobile Development
+- 🌱 A Software Developer who majored in Mobile Development 
 - 📫 Reach me via Mail: thankgoduzochukwu.com@gmail.com
-- 💻 <a href="https://flowcv.com/resume/so1uro0gi7k3" target="_blank">Software Developer CV</a>
+- 💻 My <a href="https://flowcv.com/resume/so1uro0gi7k3" target="_blank">Resume</a> and <a href="https://thankgod.vercel.app" target="_blank">Portfolio</a>
 
 ## 🌐 Socials:
 
