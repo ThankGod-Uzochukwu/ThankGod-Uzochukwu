@@ -35,8 +35,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThankGod-Uzochukwu&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <a href="https://commit-history.com/ThankGod-Uzochukwu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/ThankGod-Uzochukwu?theme=dark" />
+      <img alt="ThankGod-Uzochukwu's commit history" src="https://commit-history.com/embed/ThankGod-Uzochukwu" />
+    </picture>
+  </a>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
