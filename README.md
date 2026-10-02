@@ -49,8 +49,8 @@
 
 </br>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 [![](https://visitcount.itsvg.in/api?id=ThankGod-Uzochukwu&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThankGodUzochukwu&label=Profile%20views&color=fe428e&style=plastic" alt="ThankGod Uzochukwu" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThankGodUzochukwu&label=Profile%20views&color=fe428e&style=plastic" alt="ThankGod Uzochukwu" /></p>
