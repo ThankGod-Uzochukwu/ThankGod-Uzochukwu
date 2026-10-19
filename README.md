@@ -54,32 +54,3 @@
 [![](https://visitcount.itsvg.in/api?id=ThankGod-Uzochukwu&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThankGodUzochukwu&label=Profile%20views&color=fe428e&style=plastic" alt="ThankGod Uzochukwu" />
-
-<div align="center">
-                 ######                ######               
-             ###     ####        ####     ###             
-            ##          ###    ###          ##            
-            ##             ####             ##            
-            ##             ####             ##            
-            ##           ##    ##           ##            
-            ##         ###      ###         ##            
-             ##  ########################  ##             
-          ######    ###            ###    ######          
-      ###     ##    ##              ##    ##     ###      
-   ###         ## ###      ####      ### ##         ###   
-  ##           ####      ########      ####           ##  
- ##             ###     ##########     ###             ## 
-  ##           ####      ########      ####           ##  
-   ###         ## ###      ####      ### ##         ###   
-      ###     ##    ##              ##    ##     ###      
-          ######    ###            ###    ######          
-             ##  ########################  ##             
-            ##         ###      ###         ##            
-            ##           ##    ##           ##            
-            ##             ####             ##            
-            ##             ####             ##            
-            ##          ###    ###          ##            
-             ###     ####        ####     ###             
-               ######                ######               
-                                                          
-</div>
